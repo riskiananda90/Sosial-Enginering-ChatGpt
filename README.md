@@ -18,5 +18,6 @@ Untuk cara pakai pastikan anda memasukan prompt cerita dibawah ini dan kemudian 
 ---
 
 <div style="color: red; font-weight: bold; font-size: 16px;">
-⚠️ **PERINGATAN**: Gunakan dengan penuh tanggung jawab! tutorial ini hanya untuk keperluan belajar dan eksperimen. Penyalahgunaan dapat berakibat serius dan melanggar hukum.
+⚠️ **PERINGATAN**: 
+  Gunakan dengan penuh tanggung jawab! tutorial ini hanya untuk keperluan belajar dan eksperimen. Penyalahgunaan dapat berakibat serius dan melanggar hukum.
 </div>
